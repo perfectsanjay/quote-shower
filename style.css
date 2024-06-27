@@ -15,7 +15,7 @@ body{
 
 .quote-container{
     width: auto;
-    padding: 30px 10px;
+    padding: 20px 30px;
     color: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
     border-color: rgba(0, 0, 0, 0.7);
@@ -53,7 +53,9 @@ button{
 .twitter:hover{
     color:#38a1f3;
 }
-
+.changeFontSize{
+    font-size:1rem
+}
 @media screen and (max-width:600px){
     .quote-container{
         margin:auto 20px;
@@ -63,6 +65,7 @@ button{
     }
 
 }
+
 
 
 
